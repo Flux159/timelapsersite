@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: timelapser.chronotale.com/sitemap.xml
+Sitemap: https://timelapser.chronotale.com/sitemap.xml
