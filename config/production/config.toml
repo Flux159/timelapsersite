@@ -1,3 +1,3 @@
 # Followed this https://github.com/h-enk/doks-gh-pages guide 
-baseurl = "https://flux159.github.io/timelapsersite/"
+baseurl = "timelapser.chronotale.com"
 canonifyURLs = true
