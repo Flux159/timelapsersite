@@ -1,5 +1,5 @@
 ---
-title : "Intro"
+title: "Intro"
 description: "Timelapser Docs"
 lead: ""
 menu:
@@ -15,10 +15,10 @@ images: []
 
 Timelapser is an app to take screenshots of your Mac or Windows desktop and create beautiful, easily shareable timelapses of your work.
 
-Use it to share workflows for art, design, coding practices without wasting your teammate's valuable time. 
+Use it to share workflows for art, design, coding practices without wasting your teammate's valuable time.
 
 Share on Youtube, Facebook, or Twitter to get feedback on improving your workflows or just to give an inside look into how your "digital bread" is made.
 
-# Stuff
+## Stuff
 
 Here
