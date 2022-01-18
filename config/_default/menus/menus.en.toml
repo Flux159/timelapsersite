@@ -1,8 +1,14 @@
 [[docs]]
-  name = "Prologue"
-  weight = 10
-  identifier = "prologue"
-  url = "/docs/prologue/"
+  name = "Introduction"
+  weight = 20
+  identifier = "intro"
+  url = "/docs/intro/"
+
+[[docs]]
+  name = "In Depth"
+  weight = 30
+  identifier = "indepth"
+  url = "/docs/indepth/"
 
 [[docs]]
   name = "Help"
@@ -12,7 +18,7 @@
 
 [[main]]
   name = "Docs"
-  url = "/docs/"
+  url = "/docs/intro/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
