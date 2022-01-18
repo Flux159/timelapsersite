@@ -1,6 +1,6 @@
 ---
 name: "Bug report \U0001F41E"
-about: Create a report to help us improve
+about: Create a bug report to help us improve Timelapser
 
 ---
 
@@ -12,6 +12,8 @@ Describe the issue that you're seeing.
 
 Clear steps describing how to reproduce the issue. Please please please link to a demo project if possible, this makes your issue _much_ easier to diagnose (seriously).
 
+Please include the operating system (including version) in order to help reproduce the issue.
+
 ### Expected result
 
 What should happen?
@@ -22,4 +24,4 @@ What happened.
 
 ### Environment
 
-Paste the information here as shown by `npm run check`
+Open Timelapser's log file in a text editor and paste the contents here.
